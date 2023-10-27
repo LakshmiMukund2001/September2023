@@ -1,0 +1,20 @@
+20231024 16:13:02 INFO  [main] script.BaseTest BaseTest.java82 - chrome browser launched
+20231024 16:13:03 INFO  [main] script.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 16:13:03 INFO  [main] script.SalesForceScript SalesForceScript.java20 - ******login_to_firebase automation script started***********
+20231024 16:13:03 INFO  [main] script.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 16:13:47 INFO  [main] script.BaseTest BaseTest.java82 - chrome browser launched
+20231024 16:13:48 INFO  [main] script.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 16:13:48 INFO  [main] script.SalesForceScript SalesForceScript.java20 - ******login_to_firebase automation script started***********
+20231024 16:13:48 INFO  [main] script.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231025 12:55:26 INFO  [main] script.BaseTest BaseTest.java82 - chrome browser launched
+20231025 12:55:27 INFO  [main] script.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231025 12:55:27 INFO  [main] script.SalesForceScript SalesForceScript.java20 - ******login_to_firebase automation script started***********
+20231025 12:55:27 INFO  [main] script.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231025 15:23:16 INFO  [main] script.BaseTest BaseTest.java82 - chrome browser launched
+20231025 15:23:17 INFO  [main] script.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231025 15:23:17 INFO  [main] script.SalesForceScript SalesForceScript.java20 - ******login_to_firebase automation script started***********
+20231025 15:23:17 INFO  [main] script.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231025 15:23:37 INFO  [main] script.BaseTest BaseTest.java82 - chrome browser launched
+20231025 15:23:38 INFO  [main] script.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231025 15:23:38 INFO  [main] script.SalesForceScript SalesForceScript.java20 - ******login_to_firebase automation script started***********
+20231025 15:23:38 INFO  [main] script.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********

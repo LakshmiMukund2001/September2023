@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="com.test.utilities.TestEventListenersUtility" />
+</listeners>
+  <test thread-count="1" name="MyTest">
+  <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="com.test.script.SalesForceScript"/>
+    </classes>
+  </test> <!-- MyTest -->
+</suite> <!-- Suite -->
